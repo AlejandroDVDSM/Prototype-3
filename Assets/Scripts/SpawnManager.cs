@@ -26,7 +26,8 @@ public class SpawnManager : MonoBehaviour
     {
         
     }
-
+    
+    //this is a test
     void SpawnObstacle()
     {
         if (playerControllerScript.gameOver == false)
